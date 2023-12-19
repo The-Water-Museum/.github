@@ -1,3 +1,11 @@
+# Arctic Eggs 
+
+[![Itch.io](https://img.shields.io/static/v1?label=Itch.io&message=Arctic%20Eggs&style=for-the-badge&logo=itch.io&link=https://the-water-museum.itch.io/arctic-eggs)](https://the-water-museum.itch.io/arctic-eggs)
+
+![image](https://github.com/The-Water-Museum/.github/assets/7227500/f258fd71-9668-4367-bc6e-3d0e0366e96e)
+
+_A Sci-Fi Cooking game where you take up the role of a Poultry Peddler stuck in Antarctica and longing for a way out.  Sell your illegal eggs to those who look hungry. This was made for the BIGMODE Jam 2023._
+
 # Ibis AM
 
 [![Steam](https://img.shields.io/static/v1?label=Steam&message=Ibis%20AM&style=for-the-badge&logo=steam&link=https://store.steampowered.com/app/2251540/IBIS_AM/)](https://store.steampowered.com/app/2251540/IBIS_AM/) [![Itch.io](https://img.shields.io/static/v1?label=Itch.io&message=Ibis%20AM&style=for-the-badge&logo=itch.io&link=https://the-water-museum.itch.io/ibis-am)](https://the-water-museum.itch.io/ibis-am)
